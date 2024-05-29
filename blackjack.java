@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main
+public class blackjack
 {
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
